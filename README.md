@@ -70,8 +70,8 @@ Testing
 
 Using node.js (npm), you can test the code as follows...
 
-      $ npm install mocha
-      $ npm test
+      $ npm install
+      $ npm run test
 
 
 
